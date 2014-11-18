@@ -1,5 +1,5 @@
 {
-  "name": "validate2",
+  "name": "validate3",
   "version": "0.1.0",
   "description": "validates values against a predefined set of regexps",
   "main": "index.js",
