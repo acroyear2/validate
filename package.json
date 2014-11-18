@@ -20,7 +20,12 @@
     "url": "https://github.com/tetsuo/validate/issues"
   },
   "homepage": "https://github.com/tetsuo/validate",
-	"browser": {
-		"collapse-whitespace": "collapse-whitespace2"
-	}
+  "browser": {
+    "collapse-whitespace": "collapse-whitespace2"
+  },
+  "dependencies": {
+    "collapse-whitespace2": "^0.1.0",
+    "escape-html": "^1.0.1",
+    "regexps": "^0.1.0"
+  }
 }
