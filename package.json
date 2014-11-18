@@ -1,0 +1,23 @@
+{
+  "name": "validate",
+  "version": "0.1.0",
+  "description": "validates values against a predefined set of regexps",
+  "main": "index.js",
+  "scripts": {
+    "test": "component build -s validate; node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetsuo/validate.git"
+  },
+  "keywords": [
+    "validate",
+    "regexps"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/validate/issues"
+  },
+  "homepage": "https://github.com/tetsuo/validate"
+}

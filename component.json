@@ -1,0 +1,12 @@
+{
+	"name": "validate",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"dependencies": {
+		"tetsuo/collapse-whitespace": "*",
+		"tetsuo/regexps": "*",
+		"component/escape-html": "*"
+	}
+}
